@@ -6,6 +6,5 @@ setup(name='getcitibike',
       author='Haoming Yang',
       author_email='hy1528@nyu.edu',
       url='https://github.com/haomingsama/getcitibike',
-      py_modules=['getCitiBikeCSV'],
-      install_requires=['os']
+      py_modules=['getCitiBikeCSV']
      )
